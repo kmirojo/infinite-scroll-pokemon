@@ -1,0 +1,53 @@
+$types: (
+    "grass",
+    "fire",
+    "water",
+    "bug",
+    "electric",
+    "ground",
+    "flying",
+    "normal",
+    "psychic",
+    "poison",
+    "rock",
+    "ice",
+    "ghost",
+    "fighting",
+    "fairy",
+    "dragon"
+);
+$grass: rgb(222, 253, 224);
+$fire: rgb(253, 223, 223);
+$water: rgb(222, 243, 253);
+$bug: rgb(248, 213, 163);
+$electric: rgb(252, 247, 222);
+$ground: rgb(244, 231, 218);
+$flying: rgb(245, 245, 245);
+$normal: rgb(245, 245, 245);
+$psychic: rgb(234, 237, 161);
+$poison: rgb(198, 131, 182);
+$rock: rgb(195, 193, 187);
+$ice: rgb(138, 217, 255);
+$ghost: rgb(139, 98, 131);
+$fairy: rgb(255, 213, 189);
+$fighting: rgb(164, 180, 180);
+$dragon: rgb(237, 155, 57);
+
+:root {
+    --grass: rgb(222, 253, 224);
+    --fire: rgb(253, 223, 223);
+    --water: rgb(222, 243, 253);
+    --bug: rgb(248, 213, 163);
+    --electric: rgb(252, 247, 222);
+    --ground: rgb(244, 231, 218);
+    --flying: rgb(245, 245, 245);
+    --normal: rgb(245, 245, 245);
+    --psychic: rgb(234, 237, 161);
+    --poison: rgb(198, 131, 182);
+    --rock: rgb(195, 193, 187);
+    --ice: rgb(138, 217, 255);
+    --ghost: rgb(139, 98, 131);
+    --fairy: rgb(255, 213, 189);
+    --fighting: rgb(164, 180, 180);
+    --dragon: rgb(237, 155, 57);
+}
